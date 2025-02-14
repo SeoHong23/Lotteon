@@ -91,7 +91,8 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ---
 
 ## 🎥 기능 시연
-https://youtu.be/U7h1SMAE4Eo?si=kDyq7hhJTSOAnH5Y
+[![YouTube Video](https://img.youtube.com/vi/U7h1SMAE4Eo/0.jpg)](https://www.youtube.com/watch?v=U7h1SMAE4Eo)
+
 
 
 ---
