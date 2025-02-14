@@ -91,7 +91,7 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ---
 
 ## 🎥 기능 시연
-![1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ef1ff76a-55f8-4400-a784-ee346f9b80ea)
+![Lotteon GIF](https://raw.githubusercontent.com/SeoHong23/Lotteon/main/Lotteon.gif)
 
 
 
